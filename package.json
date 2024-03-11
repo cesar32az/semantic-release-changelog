@@ -65,6 +65,7 @@
   },
   "prettier": {
     "printWidth": 120,
+    "singleQuote": true,
     "trailingComma": "es5"
   },
   "publishConfig": {
