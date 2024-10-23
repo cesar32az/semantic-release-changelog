@@ -67,3 +67,10 @@ When used with the [@semantic-release/git](https://github.com/semantic-release/g
   ]
 }
 ```
+
+
+## Publish
+
+npm publish --registry=http://npm01.im.local:4873/
+
+npm show semantic-release-changelog --registry=http://npm01.im.local:4873/
